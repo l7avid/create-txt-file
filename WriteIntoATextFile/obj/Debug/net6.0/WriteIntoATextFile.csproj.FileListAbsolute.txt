@@ -1,0 +1,30 @@
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\refint\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\ref\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.exe
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.deps.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.runtimeconfig.json
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net6.0\WriteIntoATextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.csproj.AssemblyReference.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.AssemblyInfoInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.AssemblyInfo.cs
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.csproj.CoreCompileInputs.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\refint\WriteIntoATextFile.dll
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.pdb
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\WriteIntoATextFile.genruntimeconfig.cache
+C:\Users\david.reina\Documents\Personal Devs\Ruta N Udemy - C#\20 - Write Into A Text File\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net6.0\ref\WriteIntoATextFile.dll
